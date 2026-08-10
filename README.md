@@ -23,7 +23,7 @@ Je m'intéresse particulièrement aux domaines de :
 
 Ce portfolio évoluera progressivement avec mes nouveaux projets, expériences et compétences.
 
----
+
 
 # ⭐ Projets principaux
 
@@ -52,8 +52,6 @@ Conception et développement d’un système intelligent de **détection et de p
 - Analyse du trafic réseau
 
 🔗 **Dépôt GitHub :** `À venir`
-
----
 
 ## 📱 إتقان — Application mobile d’apprentissage
 
@@ -88,7 +86,7 @@ L’application propose différents espaces selon les profils utilisateurs et pe
 
 🔗 **Dépôt GitHub :** `À venir`
 
----
+
 
 ## 🤖 على بصيرة — Bot de gestion et d’automatisation
 
@@ -121,7 +119,6 @@ Développement d’un système basé sur **Telegram** permettant d’automatiser
 
 🔗 **Dépôt GitHub :** `À venir`
 
----
 
 # 🎓 Projets académiques et techniques
 
@@ -157,7 +154,6 @@ Application consacrée à l’étude et à l’implémentation de techniques de 
 
 🔗 **Projet :** `Documentation à venir`
 
----
 
 ## ☕ Système de gestion de clinique — Java
 
@@ -177,7 +173,6 @@ Application développée en **Java** autour de la gestion des informations et op
 
 🔗 **Projet :** `Documentation à venir`
 
----
 
 ## 🌐 Mini-projet TWM
 
@@ -187,7 +182,6 @@ Les objectifs, technologies utilisées, architecture et résultats seront ajout�
 
 🔗 **Projet :** `Documentation à venir`
 
----
 
 ## 💻 Mini-projet TDM
 
@@ -197,7 +191,7 @@ Les objectifs, technologies utilisées, architecture et résultats seront ajout�
 
 🔗 **Projet :** `Documentation à venir`
 
----
+
 
 ## 📡 Mini-projet TNIM
 
@@ -207,7 +201,6 @@ Les objectifs, technologies utilisées, architecture et résultats seront ajout�
 
 🔗 **Projet :** `Documentation à venir`
 
----
 
 # 🧩 Compétences mises en pratique
 
@@ -222,7 +215,7 @@ Les objectifs, technologies utilisées, architecture et résultats seront ajout�
 | ⚙️ Automatisation | Telegram Bot API, Google Apps Script |
 | ☁️ Services Cloud | Firebase, Google Drive, Google Sheets, Google Forms |
 
----
+
 
 # 📂 Organisation de mes projets
 
