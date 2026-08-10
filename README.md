@@ -137,7 +137,6 @@ Application réalisée dans le cadre de ma formation afin d’étudier et d’ex
 
 🔗 **Projet :** `Documentation à venir`
 
----
 
 ## 🖼️ Application de compression d’image
 
