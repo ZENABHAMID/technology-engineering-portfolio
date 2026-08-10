@@ -6,7 +6,7 @@ Ce dépôt présente une sélection de mes projets académiques et personnels r�
 
 Mon objectif est de développer continuellement mes compétences techniques à travers la conception, l’implémentation, le test et l’amélioration de solutions concrètes.
 
----
+
 
 ## 👩‍💻 À propos
 
